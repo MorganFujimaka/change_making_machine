@@ -1,0 +1,6 @@
+development:
+  clients:
+    default:
+      database: change_making_machines
+      hosts:
+        - localhost:27017
